@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#app {
+    background:url("./../../images/beach.jpg") no-repeat fixed center;
+    background-size: cover;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    color: white;
+    padding-top: 5px;
+    padding-right: 5px;
+    font-size: 1.5em;
+    text-shadow: 2px 2px 2px black;
+}
+
+.title {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 2.2em;
+    text-shadow: 2px 2px 2px black;
+}
+
+.timer {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom:55px;
+    font-size: 2em;
+    text-shadow: 2px 2px 2px black;
+}
+
+.try {
+    color: red;
+}
+
+.text {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 1.2em;
+    text-shadow: 2px 2px 2px black;
+}
+
+.finish {
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.finish-text {
+    color: black;
+    text-align: center;
+    padding-top: 25%;
+    font-size: 2em;
+}
